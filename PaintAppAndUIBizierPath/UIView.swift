@@ -3,7 +3,7 @@
 //  PaintAppAndUIBizierPath
 //
 //  Created by carloshenrique.carmo on 14/05/20.
-//  Copyright © 2020 globo.com. All rights reserved.
+//  Copyright © 2020 carloshenrique.carmo All rights reserved.
 //
 
 import Foundation
